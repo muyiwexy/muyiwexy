@@ -13,7 +13,7 @@
 
 - 🌱 I'm currently learning **Advanced Flutter Architecture Patterns & System Design**
 - 💬 Ask me about **Flutter, Kotlin, Android, iOS, Technical Writing...or anything [here](https://github.com/muyiwexy/muyiwexy/issues)**
-- 📝 I write/wrote technical articles for [HackMamba](https://hackmamba.io/blog/how-to-quickly-add-github-login-to-your-flutter-application/), [Twilio](https://www.twilio.com/en-us/blog/authors/author.muyiwa-femi-ige) [LogRocket](https://blog.logrocket.com/author/muyiwafemiige/), [metalbear](https://metalbear.co/contributors/femi-ige-muyiwa-oladele/) and much more
+- 📝 I write/wrote technical articles for [HackMamba](https://hackmamba.io/blog/how-to-quickly-add-github-login-to-your-flutter-application/), [Twilio](https://www.twilio.com/en-us/blog/authors/author.muyiwa-femi-ige), [LogRocket](https://blog.logrocket.com/author/muyiwafemiige/), [metalbear](https://metalbear.co/contributors/femi-ige-muyiwa-oladele/) and much more
 
 <br>
 
